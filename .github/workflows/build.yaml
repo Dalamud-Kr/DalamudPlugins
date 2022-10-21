@@ -1,0 +1,61 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - api6
+      
+concurrency: 
+  group: dalamudplugins-kr-deploy
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    if: github.ref == 'refs/heads/main'
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v3
+        with:
+          repository: Dalamud-Kr/DalamudPlugins
+          ref: ${{ github.event.pull_request.head.sha }}
+          submodules: recursive
+          path: main
+          
+      - name: Checkout api6
+        uses: actions/checkout@v3
+        with:
+          repository: Dalamud-Kr/DalamudPlugins
+          ref: api6
+          path: api6
+          
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.10'
+
+      - name: Build
+        run: |
+          cd ${{ github.workspace }}/main
+          python build.py
+          ${{ github.workspace }}
+          
+      - name: Commit
+        continue-on-error: true
+        run: |
+          cd ${{ github.workspace }}/api6
+          git add .
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Update distribute"
+          ${{ github.workspace }}
+          
+      - name: Push plugin dist
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          directory: api6
+          repository: Dalamud-Kr/DalamudPlugins
+          ssh: true

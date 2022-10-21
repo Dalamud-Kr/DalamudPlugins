@@ -1,0 +1,4 @@
+[submodule "goatcorp_DalamudPlugins"]
+	path = goatcorp_DalamudPlugins
+	url = https://github.com/goatcorp/DalamudPlugins.git
+	branch = api6

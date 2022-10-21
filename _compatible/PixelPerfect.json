@@ -1,0 +1,48 @@
+{
+  "Disabled": false,
+  "Testing": false,
+  "ScheduledForDeletion": false,
+  "InstalledFromUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/pluginmaster.json",
+  "IsThirdParty": false,
+  "EffectiveVersion": "2.0.0.0",
+  "Author": "Haplo064",
+  "Name": "Pixel Perfect",
+  "Punchline": "Reveals your hitbox, and an optional ring.",
+  "Description": "Showing exactly where to stand since 2020.",
+  "Changelog": "Many new features!",
+  "Tags": [
+    "Hitbox",
+    "Overlay",
+    "Indicator"
+  ],
+  "CategoryTags": [
+    "UI"
+  ],
+  "IsHide": false,
+  "InternalName": "PixelPerfect",
+  "AssemblyVersion": "2.0.0.0",
+  "TestingAssemblyVersion": null,
+  "IsTestingExclusive": false,
+  "RepoUrl": "https://github.com/Haplo064/PixelPerfect",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 6,
+  "DownloadCount": 144709,
+  "LastUpdate": 1651731293,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/PixelPerfect/latest.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/PixelPerfect/latest.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/PixelPerfect/latest.zip",
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "CanUnloadAsync": false,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image1.png",
+    "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image2.png",
+    "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image3.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/icon.png",
+  "AcceptsFeedback": true,
+  "FeedbackMessage": null,
+  "_isDip17Plugin": false,
+  "_Dip17Channel": null
+}

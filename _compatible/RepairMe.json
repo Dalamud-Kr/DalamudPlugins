@@ -1,0 +1,50 @@
+{
+  "Disabled": false,
+  "Testing": true,
+  "ScheduledForDeletion": false,
+  "InstalledFromUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/pluginmaster.json",
+  "IsThirdParty": false,
+  "EffectiveVersion": "1.0.1.11",
+  "Author": "Chalkos",
+  "Name": "RepairMe",
+  "Punchline": "Never forget to repair & extract materia again!",
+  "Description": "Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config",
+  "Changelog": "* v1.0.1.10\n  * fix startup problem",
+  "Tags": [
+    "Repair",
+    "Materia",
+    "Spiritbond",
+    "Alert"
+  ],
+  "CategoryTags": [
+    "inventory"
+  ],
+  "IsHide": false,
+  "InternalName": "RepairMe",
+  "AssemblyVersion": "1.0.1.10",
+  "TestingAssemblyVersion": "1.0.1.11",
+  "IsTestingExclusive": false,
+  "RepoUrl": "https://github.com/chalkos/RepairMe",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 6,
+  "DownloadCount": 73137,
+  "LastUpdate": 1655782903,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/RepairMe/latest.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/RepairMe/latest.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/RepairMe/latest.zip",
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "CanUnloadAsync": false,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/image1.png",
+    "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/image2.png",
+    "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/image3.png",
+    "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/image4.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/icon.png",
+  "AcceptsFeedback": true,
+  "FeedbackMessage": null,
+  "_isDip17Plugin": false,
+  "_Dip17Channel": null
+}

@@ -1,0 +1,42 @@
+{
+  "Disabled": false,
+  "Testing": false,
+  "ScheduledForDeletion": false,
+  "InstalledFromUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/pluginmaster.json",
+  "IsThirdParty": false,
+  "EffectiveVersion": "1.1.1.0",
+  "Author": "daemitus",
+  "Name": "ezFauxHollows",
+  "Punchline": "Highlights recommended tiles in Faux Hollows for your next move.",
+  "Description": "This plugin highlights tiles in Faux Hollows that represent the best potential action you can take.",
+  "Changelog": null,
+  "Tags": null,
+  "CategoryTags": [
+    "minigames"
+  ],
+  "IsHide": false,
+  "InternalName": "FauxHollowsSolver",
+  "AssemblyVersion": "1.1.1.0",
+  "TestingAssemblyVersion": null,
+  "IsTestingExclusive": false,
+  "RepoUrl": "https://github.com/daemitus/FauxHollowsSolver",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 6,
+  "DownloadCount": 61279,
+  "LastUpdate": 1650054506,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FauxHollowsSolver/latest.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FauxHollowsSolver/latest.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FauxHollowsSolver/latest.zip",
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "CanUnloadAsync": false,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/daemitus/FauxHollowsSolver/master/res/image1.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/daemitus/FauxHollowsSolver/master/res/icon.png",
+  "AcceptsFeedback": true,
+  "FeedbackMessage": null,
+  "_isDip17Plugin": false,
+  "_Dip17Channel": null
+}

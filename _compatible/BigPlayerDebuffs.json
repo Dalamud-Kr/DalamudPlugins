@@ -1,0 +1,43 @@
+{
+  "Disabled": false,
+  "Testing": false,
+  "ScheduledForDeletion": false,
+  "InstalledFromUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/pluginmaster.json",
+  "IsThirdParty": false,
+  "EffectiveVersion": "1.1.0.5",
+  "Author": "d87",
+  "Name": "BigPlayerDebuffs",
+  "Punchline": null,
+  "Description": "Scales up buffs/debuffs applied by you on Target Status frames",
+  "Changelog": "* v1.1.0.5\n * Futureproofing for the next Dalamud update\n",
+  "Tags": null,
+  "CategoryTags": [
+    "UI",
+    "jobs"
+  ],
+  "IsHide": false,
+  "InternalName": "BigPlayerDebuffs",
+  "AssemblyVersion": "1.1.0.5",
+  "TestingAssemblyVersion": null,
+  "IsTestingExclusive": false,
+  "RepoUrl": "https://github.com/rgd87/BigPlayerDebuffs",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 6,
+  "DownloadCount": 58054,
+  "LastUpdate": 1655798927,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/BigPlayerDebuffs/latest.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/BigPlayerDebuffs/latest.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/BigPlayerDebuffs/latest.zip",
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "CanUnloadAsync": false,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/image1.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/icon.png",
+  "AcceptsFeedback": true,
+  "FeedbackMessage": null,
+  "_isDip17Plugin": false,
+  "_Dip17Channel": null
+}

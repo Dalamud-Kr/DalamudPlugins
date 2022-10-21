@@ -1,0 +1,43 @@
+{
+  "Disabled": false,
+  "Testing": false,
+  "ScheduledForDeletion": false,
+  "InstalledFromUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/pluginmaster.json",
+  "IsThirdParty": false,
+  "EffectiveVersion": "1.2.2.3",
+  "Author": "ocealot",
+  "Name": "JobBars",
+  "Punchline": "Extra job gauges",
+  "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
+  "Changelog": null,
+  "Tags": [
+    "UI",
+    "Bars"
+  ],
+  "CategoryTags": [
+    "jobs"
+  ],
+  "IsHide": false,
+  "InternalName": "JobBars",
+  "AssemblyVersion": "1.2.2.3",
+  "TestingAssemblyVersion": null,
+  "IsTestingExclusive": false,
+  "RepoUrl": "https://github.com/0ceal0t/JobBars",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 6,
+  "DownloadCount": 227195,
+  "LastUpdate": 1658010544,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/JobBars/latest.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/JobBars/latest.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/JobBars/latest.zip",
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "CanUnloadAsync": false,
+  "ImageUrls": null,
+  "IconUrl": null,
+  "AcceptsFeedback": true,
+  "FeedbackMessage": null,
+  "_isDip17Plugin": false,
+  "_Dip17Channel": null
+}

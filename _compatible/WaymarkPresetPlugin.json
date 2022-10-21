@@ -1,0 +1,49 @@
+{
+  "Disabled": false,
+  "Testing": false,
+  "ScheduledForDeletion": false,
+  "InstalledFromUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/pluginmaster.json",
+  "IsThirdParty": false,
+  "EffectiveVersion": "1.4.3.0",
+  "Author": "PunishedPineapple",
+  "Name": "Waymark Preset Plugin",
+  "Punchline": "Improved Waymark Management",
+  "Description": "Allows you to save, edit, place, import, export, and preview an unlimited number of waymark presets.",
+  "Changelog": null,
+  "Tags": [
+    "Waymark",
+    "Marker",
+    "Preset",
+    "Tool"
+  ],
+  "CategoryTags": [
+    "UI"
+  ],
+  "IsHide": false,
+  "InternalName": "WaymarkPresetPlugin",
+  "AssemblyVersion": "1.4.3.0",
+  "TestingAssemblyVersion": "1.4.1.0",
+  "IsTestingExclusive": false,
+  "RepoUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 6,
+  "DownloadCount": 112339,
+  "LastUpdate": 1658965447,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/WaymarkPresetPlugin/latest.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/WaymarkPresetPlugin/latest.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/WaymarkPresetPlugin/latest.zip",
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "CanUnloadAsync": false,
+  "ImageUrls": [
+    "https://github.com/PunishedPineapple/WaymarkPresetPlugin/raw/master/docs/Images/image1.png",
+    "https://github.com/PunishedPineapple/WaymarkPresetPlugin/raw/master/docs/Images/image2.png",
+    "https://github.com/PunishedPineapple/WaymarkPresetPlugin/raw/master/docs/Images/image3.png"
+  ],
+  "IconUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin/raw/master/docs/Images/icon.png",
+  "AcceptsFeedback": true,
+  "FeedbackMessage": null,
+  "_isDip17Plugin": false,
+  "_Dip17Channel": null
+}

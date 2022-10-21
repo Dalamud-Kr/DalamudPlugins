@@ -1,0 +1,43 @@
+{
+  "Disabled": false,
+  "Testing": false,
+  "ScheduledForDeletion": false,
+  "InstalledFromUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/pluginmaster.json",
+  "IsThirdParty": false,
+  "EffectiveVersion": "1.1.1.0",
+  "Author": "daemitus",
+  "Name": "ezMiniCactpot",
+  "Punchline": "Shows the next best move in Mini Cactpot.",
+  "Description": "This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take.",
+  "Changelog": null,
+  "Tags": null,
+  "CategoryTags": [
+    "minigames"
+  ],
+  "IsHide": false,
+  "InternalName": "MiniCactpotSolver",
+  "AssemblyVersion": "1.1.1.0",
+  "TestingAssemblyVersion": null,
+  "IsTestingExclusive": false,
+  "RepoUrl": "https://github.com/daemitus/MiniCactpotSolver",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 6,
+  "DownloadCount": 178779,
+  "LastUpdate": 1649901661,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/MiniCactpotSolver/latest.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/MiniCactpotSolver/latest.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/MiniCactpotSolver/latest.zip",
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "CanUnloadAsync": false,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/image1.png",
+    "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/image2.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/icon.png",
+  "AcceptsFeedback": true,
+  "FeedbackMessage": null,
+  "_isDip17Plugin": false,
+  "_Dip17Channel": null
+}

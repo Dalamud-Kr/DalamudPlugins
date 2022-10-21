@@ -55,4 +55,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           directory: api6
+          branch: api6
           repository: Dalamud-Kr/DalamudPlugins

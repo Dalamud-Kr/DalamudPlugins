@@ -1,0 +1,12 @@
+{
+  "Author": "RyuaNerin",
+  "Name": "Dalamud.Fotice",
+  "InternalName": "Dalamud.Fotice",
+  "AssemblyVersion": "1.0.0.1",
+  "Description": "파이널 판타지 14 인게임 채팅방에 공지사항이 올라오는 것을 차단합니다.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/RyuaNerin/Dalamud.Fotice",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "파이널 판타지 14 인게임 채팅방에 공지사항이 올라오는 것을 차단합니다."
+}

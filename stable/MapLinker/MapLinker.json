@@ -1,0 +1,13 @@
+{
+  "Author": "Bluefissure",
+  "Name": "MapLinker",
+  "InternalName": "MapLinker",
+  "AssemblyVersion": "1.1.4.0",
+  "Description": "Automatically record the maplinks in chat and retrieval later.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Bluefissure/MapLinker",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Bluefissure/MapLinker/master/images/icon.png",
+  "Punchline": "Record the maplinks in chat"
+}

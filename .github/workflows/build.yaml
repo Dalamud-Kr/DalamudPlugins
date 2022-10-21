@@ -40,7 +40,6 @@ jobs:
         run: |
           cd ${{ github.workspace }}/main
           python build.py
-          ${{ github.workspace }}
           
       - name: Commit
         continue-on-error: true
@@ -50,7 +49,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m "Update distribute"
-          ${{ github.workspace }}
           
       - name: Push plugin dist
         uses: ad-m/github-push-action@master

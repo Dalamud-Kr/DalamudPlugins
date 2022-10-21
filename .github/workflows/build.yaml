@@ -3,7 +3,7 @@ name: Build
 on:
   push:
     branches:
-      - api6
+      - main
       
 concurrency: 
   group: dalamudplugins-kr-deploy

@@ -56,4 +56,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           directory: api6
           repository: Dalamud-Kr/DalamudPlugins
-          ssh: true

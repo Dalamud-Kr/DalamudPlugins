@@ -58,18 +58,19 @@ def main():
 
     plugin_json: List[PluginInfo] = []
 
-    for pk, p in lst_korea.items():
-        p["IsTestingExclusive"] = False
-        plugin_json.append(p)
+    for pluginName, plugin in lst_korea.items():
+        plugin["IsTestingExclusive"] = False
+        plugin_json.append(plugin)
 
-    for pk, p in lst_global.items():
-        if pk in lst_korea or pk in list_exclude:
+    for pluginName, plugin in lst_global.items():
+        if pluginName in lst_korea or pluginName in list_exclude:
             continue
 
         is_compatible = (
-            pk in lst_compatible and lst_compatible[pk] == p["AssemblyVersion"]
+            pluginName in lst_compatible
+            and lst_compatible[pluginName] == plugin["AssemblyVersion"]
         )
-        p["IsTestingExclusive"] = not is_compatible
+        plugin["IsTestingExclusive"] = not is_compatible
         if is_compatible:
             prefix_new = URL_PREFIX_PLUGINS
             target_dir = OUT_PLUGINS
@@ -78,26 +79,26 @@ def main():
             prefix_new = URL_PREFIX_TESTING
             target_dir = OUT_TESTING
 
-        plugin_json.append(p)
+        plugin_json.append(plugin)
 
-        p = p["DownloadLinkInstall"].removeprefix(URL_PREFIX_BASE)
+        path = plugin["DownloadLinkInstall"].removeprefix(URL_PREFIX_BASE)
 
-        dir_src = os.path.dirname(os.path.join(GOATCORP_DIR, p))
-        dir_dst = os.path.join(target_dir, *list(pathlib.Path(p).parts[1:-1]))
+        dir_src = os.path.dirname(os.path.join(GOATCORP_DIR, path))
+        dir_dst = os.path.join(target_dir, *list(pathlib.Path(path).parts[1:-1]))
         copytree(dir_src, dir_dst)
 
-        p["DownloadLinkInstall"] = change_prefix(
-            p["DownloadLinkInstall"], URL_PREFIX_LIST, prefix_new
+        plugin["DownloadLinkInstall"] = change_prefix(
+            plugin["DownloadLinkInstall"], URL_PREFIX_LIST, prefix_new
         )
-        p["DownloadLinkTesting"] = change_prefix(
-            p["DownloadLinkTesting"], URL_PREFIX_LIST, prefix_new
+        plugin["DownloadLinkTesting"] = change_prefix(
+            plugin["DownloadLinkTesting"], URL_PREFIX_LIST, prefix_new
         )
-        p["DownloadLinkUpdate"] = change_prefix(
-            p["DownloadLinkUpdate"], URL_PREFIX_LIST, prefix_new
+        plugin["DownloadLinkUpdate"] = change_prefix(
+            plugin["DownloadLinkUpdate"], URL_PREFIX_LIST, prefix_new
         )
 
-    for p in plugin_json:
-        p["DownloadCount"] = 0
+    for plugin in plugin_json:
+        plugin["DownloadCount"] = 0
 
     with open(OUT_PLUGINMASTERS, "w", encoding="utf-8-sig") as fs:
         fs.truncate(0)

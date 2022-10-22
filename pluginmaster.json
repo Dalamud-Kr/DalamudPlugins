@@ -25,7 +25,8 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//FFLogsViewer/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//FFLogsViewer/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//FFLogsViewer/latest.zip",
-    "DownloadCount": 0
+    "DownloadCount": 0,
+    "LastUpdate": 0
   },
   {
     "Author": "MgAl2O4",
@@ -47,18 +48,12 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/latest.zip",
     "RepoUrl": "https://github.com/MgAl2O4/FFTriadBuddyDalamud",
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/image1.png",
-      "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/image2.png",
-      "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/image3.png"
-    ],
     "IconUrl": "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/icon.png",
-    "IsHide": "False",
-    "DownloadCount": 0,
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1650907663"
+    "DownloadCount": 0,
+    "LastUpdate": 0
   },
   {
     "Author": "ascclemens",
@@ -67,7 +62,7 @@
     "AssemblyVersion": "1.2.4",
     "Description": "Automatically shows where treasure maps are located.\n\nIcon: Map by Adrien Coquet from the Noun Project",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://git.sr.ht/~jkcclemens/Globetrotter",
+    "RepoUrl": "https://git.annaclemens.io/ascclemens/Globetrotter",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Automatically shows where treasure maps are located.",
@@ -75,12 +70,11 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Globetrotter/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Globetrotter/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Globetrotter/latest.zip",
-    "IsHide": "False",
-    "DownloadCount": 0,
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1649987015"
+    "DownloadCount": 0,
+    "LastUpdate": 0
   },
   {
     "Author": "kalilistic",
@@ -108,13 +102,12 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PlayerTrack/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PlayerTrack/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PlayerTrack/latest.zip",
-    "IsHide": "False",
-    "DownloadCount": 0,
     "CategoryTags": [
       "social",
       "utility"
     ],
-    "LastUpdate": "1657568759"
+    "DownloadCount": 0,
+    "LastUpdate": 0
   },
   {
     "Author": "Ottermandias",
@@ -141,13 +134,11 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//GatherBuddy/GatherBuddy.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//GatherBuddy/GatherBuddy.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//GatherBuddy/GatherBuddy.zip",
-    "ImageUrls": null,
-    "IsHide": "False",
-    "DownloadCount": 0,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1659129635"
+    "DownloadCount": 0,
+    "LastUpdate": 0
   },
   {
     "Author": "Kouzukii",
@@ -172,9 +163,8 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRecap/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRecap/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRecap/latest.zip",
-    "IsHide": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1657216479"
+    "LastUpdate": 0
   },
   {
     "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal",
@@ -196,7 +186,8 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//XIVSlothCombo/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//XIVSlothCombo/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//XIVSlothCombo/latest.zip",
-    "DownloadCount": 0
+    "DownloadCount": 0,
+    "LastUpdate": 0
   },
   {
     "Author": "shdwp, Avaflow, squidmade",
@@ -223,9 +214,8 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PartyIcons/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PartyIcons/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PartyIcons/latest.zip",
-    "IsHide": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1658087250"
+    "LastUpdate": 0
   },
   {
     "Author": "RyuaNerin",
@@ -242,7 +232,8 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Dalamud.Fotice/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Dalamud.Fotice/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Dalamud.Fotice/latest.zip",
-    "DownloadCount": 0
+    "DownloadCount": 0,
+    "LastUpdate": 0
   },
   {
     "Author": "akira0245",
@@ -263,7 +254,8 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//EasyZoom/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//EasyZoom/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//EasyZoom/latest.zip",
-    "DownloadCount": 0
+    "DownloadCount": 0,
+    "LastUpdate": 0
   },
   {
     "Author": "Infi",
@@ -290,10 +282,8 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRoll/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRoll/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRoll/latest.zip",
-    "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.3.1",
-    "LastUpdate": "1658472720"
+    "LastUpdate": 0
   },
   {
     "Author": "Bluefissure",
@@ -311,23 +301,11 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//MapLinker/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//MapLinker/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//MapLinker/latest.zip",
-    "Disabled": false,
-    "Testing": false,
-    "InstalledFromUrl": null,
-    "IsThirdParty": false,
-    "Changelog": "- Update for api6, patch 6.1.",
-    "Tags": null,
-    "TestingAssemblyVersion": null,
-    "ImageUrls": null,
-    "AcceptsFeedback": true,
-    "FeedbackMessage": null,
-    "FeedbackWebhook": null,
-    "IsHide": "False",
-    "DownloadCount": 0,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650115996"
+    "DownloadCount": 0,
+    "LastUpdate": 0
   },
   {
     "Author": "Avaflow",
@@ -345,7 +323,8 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//OopsAllLalafells/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//OopsAllLalafells/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//OopsAllLalafells/latest.zip",
-    "DownloadCount": 0
+    "DownloadCount": 0,
+    "LastUpdate": 0
   },
   {
     "Author": "UnknownX",
@@ -370,7 +349,8 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Cammy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Cammy/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Cammy/latest.zip",
-    "DownloadCount": 0
+    "DownloadCount": 0,
+    "LastUpdate": 0
   },
   {
     "Author": "PunishedPineapple",
@@ -402,10 +382,8 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Distance/Distance.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Distance/Distance.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Distance/Distance.zip",
-    "IsHide": "False",
-    "TestingAssemblyVersion": "0.9.8.3",
     "DownloadCount": 0,
-    "LastUpdate": "1659136542"
+    "LastUpdate": 0
   },
   {
     "Author": "Ottermandias",
@@ -436,7 +414,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1659757956",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Accountant/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Accountant/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Accountant/latest.zip"
@@ -460,7 +438,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1652891391",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/AdaptiveHud/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/AdaptiveHud/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/AdaptiveHud/latest.zip"
@@ -482,7 +460,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650001104",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/AdventurerInNeed/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/AdventurerInNeed/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/AdventurerInNeed/latest.zip"
@@ -507,7 +485,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1658101821",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/AudibleCharacterStatus/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/AudibleCharacterStatus/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/AudibleCharacterStatus/latest.zip"
@@ -533,7 +511,7 @@
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1653993974",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/autoSweep/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/autoSweep/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/autoSweep/latest.zip"
@@ -555,7 +533,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649987015",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/BetterPartyFinder/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/BetterPartyFinder/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/BetterPartyFinder/latest.zip"
@@ -582,7 +560,7 @@
       "UI",
       "jobs"
     ],
-    "LastUpdate": "1655798927",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/BigPlayerDebuffs/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/BigPlayerDebuffs/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/BigPlayerDebuffs/latest.zip"
@@ -611,7 +589,7 @@
     "TestingAssemblyVersion": "1.0.0.2",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1657056932",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Browsingway/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Browsingway/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Browsingway/latest.zip"
@@ -632,7 +610,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649987015",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/BurntToast/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/BurntToast/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/BurntToast/latest.zip"
@@ -659,7 +637,7 @@
     "IsHide": "False",
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": "1649935803",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/ChatAlerts/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/ChatAlerts/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/ChatAlerts/latest.zip"
@@ -689,7 +667,7 @@
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1655592924",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ChatBubbles/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ChatBubbles/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ChatBubbles/latest.zip"
@@ -712,7 +690,7 @@
       "social",
       "utility"
     ],
-    "LastUpdate": "1649939103",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ChatCoordinates/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ChatCoordinates/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ChatCoordinates/latest.zip"
@@ -731,7 +709,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1657813198",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ChatTwo/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ChatTwo/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ChatTwo/latest.zip"
@@ -750,7 +728,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1654262838",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ChatTyper/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ChatTyper/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ChatTyper/latest.zip"
@@ -775,7 +753,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1655860162",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ChillFrames/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ChillFrames/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ChillFrames/latest.zip"
@@ -800,7 +778,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1659379158",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/cl_showpos/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/cl_showpos/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/cl_showpos/latest.zip"
@@ -823,7 +801,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1658536031",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Compass/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Compass/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Compass/latest.zip"
@@ -849,7 +827,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1650129121",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/CurrencyAlert/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/CurrencyAlert/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/CurrencyAlert/latest.zip"
@@ -874,7 +852,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1660171063",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DailyDuty/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DailyDuty/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DailyDuty/latest.zip"
@@ -900,7 +878,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1654262822",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.DiscordBridge/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.DiscordBridge/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.DiscordBridge/latest.zip"
@@ -923,7 +901,7 @@
     "IsHide": "False",
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": "1659308660",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/Dalamud.FindAnything/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/Dalamud.FindAnything/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/Dalamud.FindAnything/latest.zip"
@@ -947,7 +925,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1650060943",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.FullscreenCutscenes/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.FullscreenCutscenes/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.FullscreenCutscenes/latest.zip"
@@ -969,7 +947,7 @@
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1650836854",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.LoadingImage/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.LoadingImage/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.LoadingImage/latest.zip"
@@ -994,7 +972,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1656150031",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.RichPresence/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.RichPresence/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.RichPresence/latest.zip"
@@ -1016,7 +994,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1658965435",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DamageInfoPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DamageInfoPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DamageInfoPlugin/latest.zip"
@@ -1045,7 +1023,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1658309534",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DeepDungeonDex/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DeepDungeonDex/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DeepDungeonDex/latest.zip"
@@ -1070,7 +1048,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1660717072",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DelvUI/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DelvUI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DelvUI/latest.zip"
@@ -1093,7 +1071,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1650099594",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DeviceChangeFix/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DeviceChangeFix/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DeviceChangeFix/latest.zip"
@@ -1119,7 +1097,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649971187",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/EasyEyes/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/EasyEyes/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/EasyEyes/latest.zip"
@@ -1153,7 +1131,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650295430",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Echoglossian/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Echoglossian/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Echoglossian/latest.zip"
@@ -1174,7 +1152,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650322450",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/EnemyListDebuffs/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/EnemyListDebuffs/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/EnemyListDebuffs/latest.zip"
@@ -1211,7 +1189,7 @@
     "IsHide": "False",
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": "1655755871",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/EngageTimer/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/EngageTimer/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/EngageTimer/latest.zip"
@@ -1230,7 +1208,7 @@
     "IsHide": "False",
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": "1659757988",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/EnmityHp/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/EnmityHp/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/EnmityHp/latest.zip"
@@ -1252,7 +1230,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649987015",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ExpandedSearchInfo/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ExpandedSearchInfo/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ExpandedSearchInfo/latest.zip"
@@ -1271,7 +1249,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1658472569",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ExtraChat/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ExtraChat/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ExtraChat/latest.zip"
@@ -1295,7 +1273,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1659293476",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/faderPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/faderPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/faderPlugin/latest.zip"
@@ -1321,7 +1299,7 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1650054506",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FauxHollowsSolver/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FauxHollowsSolver/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FauxHollowsSolver/latest.zip"
@@ -1351,7 +1329,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1651438795",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/FCNameColor/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/FCNameColor/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/FCNameColor/latest.zip"
@@ -1370,7 +1348,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1658536039",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Ffxiv2Mqtt/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Ffxiv2Mqtt/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Ffxiv2Mqtt/latest.zip"
@@ -1392,7 +1370,7 @@
       "social",
       "utility"
     ],
-    "LastUpdate": "1649905267",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FlashOnTell/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FlashOnTell/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FlashOnTell/latest.zip"
@@ -1414,7 +1392,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1659330116",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/FlyTextFilter/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/FlyTextFilter/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/FlyTextFilter/latest.zip"
@@ -1436,7 +1414,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1652164369",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FPSPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FPSPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FPSPlugin/latest.zip"
@@ -1459,7 +1437,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1651353561",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/GentleTouch/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/GentleTouch/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/GentleTouch/latest.zip"
@@ -1478,7 +1456,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1657734553",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Glamaholic/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Glamaholic/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Glamaholic/latest.zip"
@@ -1514,7 +1492,7 @@
       "utility",
       "sound"
     ],
-    "LastUpdate": "1649968033",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/HarpHero/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/HarpHero/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/HarpHero/latest.zip"
@@ -1536,7 +1514,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649900977",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Housemate/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Housemate/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Housemate/latest.zip"
@@ -1572,7 +1550,7 @@
       "inventory",
       "utility"
     ],
-    "LastUpdate": "1655130690",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/InventoryTools/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/InventoryTools/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/InventoryTools/latest.zip"
@@ -1595,7 +1573,7 @@
       "inventory",
       "utility"
     ],
-    "LastUpdate": "1651966347",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/ItemSearchPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/ItemSearchPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/ItemSearchPlugin/latest.zip"
@@ -1620,7 +1598,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1658010544",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/JobBars/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/JobBars/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/JobBars/latest.zip"
@@ -1639,7 +1617,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1656719006",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/JustBackup/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/JustBackup/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/JustBackup/latest.zip"
@@ -1668,7 +1646,7 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1649991445",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Kapture/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Kapture/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Kapture/latest.zip"
@@ -1691,7 +1669,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1656238470",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/KingdomHeartsPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/KingdomHeartsPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/KingdomHeartsPlugin/latest.zip"
@@ -1713,7 +1691,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1655802063",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/MacroChain/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/MacroChain/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/MacroChain/latest.zip"
@@ -1737,7 +1715,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1658353345",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/MimicryHelper/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/MimicryHelper/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/MimicryHelper/latest.zip"
@@ -1756,7 +1734,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1649950514",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Mini/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Mini/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Mini/latest.zip"
@@ -1783,7 +1761,7 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1649901661",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/MiniCactpotSolver/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/MiniCactpotSolver/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/MiniCactpotSolver/latest.zip"
@@ -1809,7 +1787,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1651007539",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/MOAction/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/MOAction/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/MOAction/latest.zip"
@@ -1839,7 +1817,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1651958187",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/MPTickBar/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/MPTickBar/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/MPTickBar/latest.zip"
@@ -1862,7 +1840,7 @@
       "UI",
       "jobs"
     ],
-    "LastUpdate": "1650994278",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NamePlateDebuffs/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NamePlateDebuffs/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NamePlateDebuffs/latest.zip"
@@ -1885,7 +1863,7 @@
       "UI",
       "jobs"
     ],
-    "LastUpdate": "1649987015",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Namingway/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Namingway/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Namingway/latest.zip"
@@ -1914,7 +1892,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650062926",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NeatNoter/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NeatNoter/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NeatNoter/latest.zip"
@@ -1937,7 +1915,7 @@
       "UI",
       "social"
     ],
-    "LastUpdate": "1651181668",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NoSoliciting/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NoSoliciting/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NoSoliciting/latest.zip"
@@ -1963,7 +1941,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1659989019",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NoTankYou/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NoTankYou/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NoTankYou/latest.zip"
@@ -1985,7 +1963,7 @@
     "TestingAssemblyVersion": "2.1.0.2",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1649954429",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NotificationMaster/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NotificationMaster/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NotificationMaster/latest.zip"
@@ -2012,7 +1990,7 @@
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1652369431",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/orchestrion/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/orchestrion/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/orchestrion/latest.zip"
@@ -2041,7 +2019,7 @@
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1649905267",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/owofy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/owofy/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/owofy/latest.zip"
@@ -2068,7 +2046,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1653954723",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PatMe/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PatMe/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PatMe/latest.zip"
@@ -2091,7 +2069,7 @@
       "UI",
       "social"
     ],
-    "LastUpdate": "1649987015",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/PeepingTom/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/PeepingTom/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/PeepingTom/latest.zip"
@@ -2123,7 +2101,7 @@
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1655000686",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PennyPincher/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PennyPincher/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PennyPincher/latest.zip"
@@ -2155,7 +2133,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1653261156",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PingPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PingPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PingPlugin/latest.zip"
@@ -2189,7 +2167,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1651731293",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/PixelPerfect/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/PixelPerfect/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/PixelPerfect/latest.zip"
@@ -2216,7 +2194,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1657825717",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PlayerTags/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PlayerTags/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PlayerTags/latest.zip"
@@ -2238,7 +2216,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649900977",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PrefPro/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PrefPro/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PrefPro/latest.zip"
@@ -2270,7 +2248,7 @@
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1654043492",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PriceCheck/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PriceCheck/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PriceCheck/latest.zip"
@@ -2298,7 +2276,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1657907770",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/QoLBar/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/QoLBar/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/QoLBar/latest.zip"
@@ -2320,7 +2298,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649987015",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/Quest Map/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/Quest Map/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/Quest Map/latest.zip"
@@ -2342,7 +2320,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1652946451",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/QuestAWAY/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/QuestAWAY/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/QuestAWAY/latest.zip"
@@ -2366,7 +2344,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1650135154",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/QuoteOfTheLobby/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/QuoteOfTheLobby/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/QuoteOfTheLobby/latest.zip"
@@ -2395,7 +2373,7 @@
     "TestingAssemblyVersion": "0.9.5.0",
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": "1654494610",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/ReadyCheckHelper/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/ReadyCheckHelper/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/ReadyCheckHelper/latest.zip"
@@ -2419,7 +2397,7 @@
     "TestingAssemblyVersion": "1.0.3.1",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1651404128",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Redirect/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Redirect/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Redirect/latest.zip"
@@ -2438,7 +2416,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1657056911",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/RemotePartyFinder/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/RemotePartyFinder/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/RemotePartyFinder/latest.zip"
@@ -2475,7 +2453,7 @@
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1655782903",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/RepairMe/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/RepairMe/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/RepairMe/latest.zip"
@@ -2504,7 +2482,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1657229988",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Reset enmity command/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Reset enmity command/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Reset enmity command/latest.zip"
@@ -2539,7 +2517,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650020213",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/RezPls/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/RezPls/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/RezPls/latest.zip"
@@ -2571,7 +2549,7 @@
       "other",
       "social"
     ],
-    "LastUpdate": "1650060667",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SillyChat/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SillyChat/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SillyChat/latest.zip"
@@ -2597,7 +2575,7 @@
       "utility",
       "social"
     ],
-    "LastUpdate": "1660383347",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/SimpleTweaksPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/SimpleTweaksPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/SimpleTweaksPlugin/latest.zip"
@@ -2622,7 +2600,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1650554788",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SkillSwap/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SkillSwap/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SkillSwap/latest.zip"
@@ -2649,7 +2627,7 @@
     "TestingAssemblyVersion": "0.2.0.0",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1652513829",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Snooper/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Snooper/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Snooper/latest.zip"
@@ -2692,7 +2670,7 @@
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1657056896",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SonarPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SonarPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SonarPlugin/latest.zip"
@@ -2714,7 +2692,7 @@
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1649987015",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/SoundFilter/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/SoundFilter/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/SoundFilter/latest.zip"
@@ -2742,7 +2720,7 @@
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1652393447",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SoundSetter/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SoundSetter/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SoundSetter/latest.zip"
@@ -2762,7 +2740,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1655508212",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/StackSellPrice/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/StackSellPrice/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/StackSellPrice/latest.zip"
@@ -2785,7 +2763,7 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1652728705",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/TeleporterPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/TeleporterPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/TeleporterPlugin/latest.zip"
@@ -2807,7 +2785,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649987015",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TextBoxStyler/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TextBoxStyler/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TextBoxStyler/latest.zip"
@@ -2838,7 +2816,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1656041930",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TextToTalk/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TextToTalk/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TextToTalk/latest.zip"
@@ -2860,7 +2838,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649987015",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TheGreatSeparator/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TheGreatSeparator/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TheGreatSeparator/latest.zip"
@@ -2879,7 +2857,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1650234200",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TheHeartOfTheParty/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TheHeartOfTheParty/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TheHeartOfTheParty/latest.zip"
@@ -2907,7 +2885,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1657996787",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TidyChat/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TidyChat/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TidyChat/latest.zip"
@@ -2926,7 +2904,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1654046726",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Tippy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Tippy/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Tippy/latest.zip"
@@ -2950,7 +2928,7 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1657734560",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TitleEdit/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TitleEdit/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TitleEdit/latest.zip"
@@ -2973,7 +2951,7 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1650157384",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Tourist/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Tourist/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Tourist/latest.zip"
@@ -2996,7 +2974,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1658101831",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TPie/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TPie/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/TPie/latest.zip"
@@ -3022,7 +3000,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1658965453",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/VFXEditor/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/VFXEditor/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/VFXEditor/latest.zip"
@@ -3054,7 +3032,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650025085",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/Visibility/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/Visibility/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/Visibility/latest.zip"
@@ -3077,7 +3055,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1649924890",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Waitingway.Dalamud/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Waitingway.Dalamud/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Waitingway.Dalamud/latest.zip"
@@ -3111,7 +3089,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1658965447",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/WaymarkPresetPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/WaymarkPresetPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/WaymarkPresetPlugin/latest.zip"
@@ -3130,7 +3108,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1659330161",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Weatherman/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Weatherman/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Weatherman/latest.zip"
@@ -3158,7 +3136,7 @@
     "TestingAssemblyVersion": "0.9.3.0",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1657062356",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/WhatDidYouSay/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/WhatDidYouSay/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/WhatDidYouSay/latest.zip"
@@ -3185,7 +3163,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1649905267",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/WheresWOLdo/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/WheresWOLdo/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/WheresWOLdo/latest.zip"
@@ -3205,7 +3183,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649969323",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/WinTitle/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/WinTitle/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/WinTitle/latest.zip"
@@ -3231,7 +3209,7 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1649968540",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/WondrousTailsSolver/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/WondrousTailsSolver/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/WondrousTailsSolver/latest.zip"
@@ -3256,7 +3234,7 @@
     "TestingAssemblyVersion": "1.3.5",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1658684862",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Wordsmith/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Wordsmith/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Wordsmith/latest.zip"
@@ -3277,7 +3255,7 @@
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1651160616",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVChat/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVChat/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVChat/latest.zip"
@@ -3302,7 +3280,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1650050604",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVCombo/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVCombo/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVCombo/latest.zip"
@@ -3331,7 +3309,7 @@
     "TestingAssemblyVersion": "0.2.9",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1656728272",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVDeck.FFXIVPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVDeck.FFXIVPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVDeck.FFXIVPlugin/latest.zip"
@@ -3360,7 +3338,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650074147",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVLogger/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVLogger/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVLogger/latest.zip"
@@ -3380,7 +3358,7 @@
     "IsHide": "False",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1659330146",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ZodiacBuddy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ZodiacBuddy/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ZodiacBuddy/latest.zip"
@@ -3409,7 +3387,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.4.3.0",
     "IsTestingExclusive": true,
-    "LastUpdate": "1660171055",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/AetherCompass/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/AetherCompass/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/AetherCompass/latest.zip"
@@ -3437,7 +3415,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.4.1.1",
     "IsTestingExclusive": true,
-    "LastUpdate": "1657734539",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ARealmRecorded/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ARealmRecorded/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ARealmRecorded/latest.zip"
@@ -3464,7 +3442,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.2.0",
     "IsTestingExclusive": true,
-    "LastUpdate": "1649909331",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/BatteryGauge/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/BatteryGauge/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/BatteryGauge/latest.zip"
@@ -3488,7 +3466,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.1.1.0",
     "IsTestingExclusive": false,
-    "LastUpdate": "1652131874",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/CharacterPanelRefined/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/CharacterPanelRefined/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/CharacterPanelRefined/latest.zip"
@@ -3516,7 +3494,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.1.0",
     "IsTestingExclusive": true,
-    "LastUpdate": "1659103149",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/CoinPouch/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/CoinPouch/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/CoinPouch/latest.zip"
@@ -3536,7 +3514,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.3.2.0",
     "IsTestingExclusive": true,
-    "LastUpdate": "1654978399",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/CrossUp/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/CrossUp/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/CrossUp/latest.zip"
@@ -3561,7 +3539,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1650832842",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.CharacterSync/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.CharacterSync/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.CharacterSync/latest.zip"
@@ -3581,7 +3559,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.1.1.0",
     "IsTestingExclusive": true,
-    "LastUpdate": "1658472613",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DomanMahjongStatus/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DomanMahjongStatus/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DomanMahjongStatus/latest.zip"
@@ -3607,7 +3585,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.0.4",
     "IsTestingExclusive": true,
-    "LastUpdate": "1653252844",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/EldenRing/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/EldenRing/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/EldenRing/latest.zip"
@@ -3629,7 +3607,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650030540",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/FantasyPlayer.Dalamud/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/FantasyPlayer.Dalamud/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/FantasyPlayer.Dalamud/latest.zip"
@@ -3661,7 +3639,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.5.0.0",
     "IsTestingExclusive": true,
-    "LastUpdate": "1651788536",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/GearsetHelperPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/GearsetHelperPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/GearsetHelperPlugin/latest.zip"
@@ -3685,7 +3663,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.6.1.0",
     "IsTestingExclusive": true,
-    "LastUpdate": "1655000734",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/HighFpsPhysicsPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/HighFpsPhysicsPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/HighFpsPhysicsPlugin/latest.zip"
@@ -3705,7 +3683,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "2.5.6.4",
     "IsTestingExclusive": true,
-    "LastUpdate": "1655935471",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/HUDManager/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/HUDManager/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/HUDManager/latest.zip"
@@ -3730,7 +3708,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.9.1.0",
     "IsTestingExclusive": true,
-    "LastUpdate": "1656718993",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/HuntBuddy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/HuntBuddy/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/HuntBuddy/latest.zip"
@@ -3754,7 +3732,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.2.0.0",
     "IsTestingExclusive": true,
-    "LastUpdate": "1659210390",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/InventorySearchBar/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/InventorySearchBar/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/InventorySearchBar/latest.zip"
@@ -3779,7 +3757,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.0.4",
     "IsTestingExclusive": true,
-    "LastUpdate": "1650249295",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ItemVendorLocation/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ItemVendorLocation/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ItemVendorLocation/latest.zip"
@@ -3804,7 +3782,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.1.3.0",
     "IsTestingExclusive": true,
-    "LastUpdate": "1659758606",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/KikoGuide/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/KikoGuide/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/KikoGuide/latest.zip"
@@ -3831,7 +3809,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.3.1",
     "IsTestingExclusive": true,
-    "LastUpdate": "1657229937",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/MBHistory/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/MBHistory/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/MBHistory/latest.zip"
@@ -3852,7 +3830,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.2.0.1",
     "IsTestingExclusive": true,
-    "LastUpdate": "1660544887",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Messenger/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Messenger/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Messenger/latest.zip"
@@ -3883,7 +3861,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.7.0",
     "IsTestingExclusive": true,
-    "LastUpdate": "1659757926",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Neko/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Neko/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Neko/latest.zip"
@@ -3907,7 +3885,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "6.11.0.0",
     "IsTestingExclusive": true,
-    "LastUpdate": "1651005408",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NextUIPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NextUIPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NextUIPlugin/latest.zip"
@@ -3928,7 +3906,7 @@
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1652153257",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NoKillPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NoKillPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NoKillPlugin/latest.zip"
@@ -3952,7 +3930,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.1.2",
     "IsTestingExclusive": true,
-    "LastUpdate": "1650418291",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/OBSPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/OBSPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/OBSPlugin/latest.zip"
@@ -3977,7 +3955,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.21.0",
     "IsTestingExclusive": true,
-    "LastUpdate": "1658604828",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/OhGeeCD/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/OhGeeCD/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/OhGeeCD/latest.zip"
@@ -4000,7 +3978,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1658016445",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PartyListLayout/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PartyListLayout/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PartyListLayout/latest.zip"
@@ -4027,7 +4005,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.3.0",
     "IsTestingExclusive": false,
-    "LastUpdate": "1651002342",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/ProperHousing/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/ProperHousing/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/ProperHousing/latest.zip"
@@ -4051,7 +4029,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.0.4",
     "IsTestingExclusive": true,
-    "LastUpdate": "1650960451",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ResetAudio/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ResetAudio/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ResetAudio/latest.zip"
@@ -4070,7 +4048,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.1.4",
     "IsTestingExclusive": true,
-    "LastUpdate": "1649899806",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ResLogger2.Plugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ResLogger2.Plugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/ResLogger2.Plugin/latest.zip"
@@ -4095,7 +4073,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.0.5",
     "IsTestingExclusive": true,
-    "LastUpdate": "1653050971",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SkillDisplay/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SkillDisplay/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SkillDisplay/latest.zip"
@@ -4115,7 +4093,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.4.0",
     "IsTestingExclusive": true,
-    "LastUpdate": "1650078538",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SupineSnail.JobGaugeAdjustments/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SupineSnail.JobGaugeAdjustments/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SupineSnail.JobGaugeAdjustments/latest.zip"
@@ -4147,7 +4125,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.1.3",
     "IsTestingExclusive": false,
-    "LastUpdate": "1655258476",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/TargetFurniture/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/TargetFurniture/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/TargetFurniture/latest.zip"
@@ -4178,7 +4156,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.0.10",
     "IsTestingExclusive": true,
-    "LastUpdate": "1655762872",
+    "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/WhereAmIAgain/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/WhereAmIAgain/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/WhereAmIAgain/latest.zip"

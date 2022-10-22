@@ -46,7 +46,19 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/latest.zip",
-    "DownloadCount": 0
+    "RepoUrl": "https://github.com/MgAl2O4/FFTriadBuddyDalamud",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/image1.png",
+      "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/image2.png",
+      "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/image3.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/icon.png",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "CategoryTags": [
+      "minigames"
+    ],
+    "LastUpdate": "1650907663"
   },
   {
     "Author": "ascclemens",
@@ -63,7 +75,12 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Globetrotter/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Globetrotter/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Globetrotter/latest.zip",
-    "DownloadCount": 0
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "CategoryTags": [
+      "utility"
+    ],
+    "LastUpdate": "1649987015"
   },
   {
     "Author": "kalilistic",
@@ -91,7 +108,13 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PlayerTrack/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PlayerTrack/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PlayerTrack/latest.zip",
-    "DownloadCount": 0
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "CategoryTags": [
+      "social",
+      "utility"
+    ],
+    "LastUpdate": "1657568759"
   },
   {
     "Author": "Ottermandias",
@@ -118,7 +141,13 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//GatherBuddy/GatherBuddy.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//GatherBuddy/GatherBuddy.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//GatherBuddy/GatherBuddy.zip",
-    "DownloadCount": 0
+    "ImageUrls": null,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "CategoryTags": [
+      "jobs"
+    ],
+    "LastUpdate": "1659129635"
   },
   {
     "Author": "Kouzukii",
@@ -143,7 +172,9 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRecap/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRecap/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRecap/latest.zip",
-    "DownloadCount": 0
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1657216479"
   },
   {
     "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal",
@@ -192,7 +223,9 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PartyIcons/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PartyIcons/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PartyIcons/latest.zip",
-    "DownloadCount": 0
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1658087250"
   },
   {
     "Author": "RyuaNerin",
@@ -257,7 +290,10 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRoll/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRoll/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRoll/latest.zip",
-    "DownloadCount": 0
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.3.1",
+    "LastUpdate": "1658472720"
   },
   {
     "Author": "Bluefissure",
@@ -275,7 +311,23 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//MapLinker/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//MapLinker/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//MapLinker/latest.zip",
-    "DownloadCount": 0
+    "Disabled": false,
+    "Testing": false,
+    "InstalledFromUrl": null,
+    "IsThirdParty": false,
+    "Changelog": "- Update for api6, patch 6.1.",
+    "Tags": null,
+    "TestingAssemblyVersion": null,
+    "ImageUrls": null,
+    "AcceptsFeedback": true,
+    "FeedbackMessage": null,
+    "FeedbackWebhook": null,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "CategoryTags": [
+      "UI"
+    ],
+    "LastUpdate": "1650115996"
   },
   {
     "Author": "Avaflow",
@@ -350,7 +402,10 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Distance/Distance.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Distance/Distance.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Distance/Distance.zip",
-    "DownloadCount": 0
+    "IsHide": "False",
+    "TestingAssemblyVersion": "0.9.8.3",
+    "DownloadCount": 0,
+    "LastUpdate": "1659136542"
   },
   {
     "Author": "Ottermandias",
@@ -1385,28 +1440,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FPSPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FPSPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FPSPlugin/latest.zip"
-  },
-  {
-    "Author": "XIV Tools",
-    "Name": "Fullscreen Toggle",
-    "Punchline": "Enter and leave borderless windowed mode quickly!",
-    "Description": "Enter and leave borderless windowed mode quickly! Press Alt+Enter to toggle fullscreen.",
-    "InternalName": "FullscreenToggle",
-    "ApplicableVersion": "any",
-    "AssemblyVersion": "1.0.0.0",
-    "RepoUrl": "https://github.com/XIV-Tools/FullscreenToggle",
-    "IconUrl": "https://github.com/XIV-Tools/FullscreenToggle/raw/main/Data/icon.png",
-    "Tags": [
-      "fullscreen",
-      "XIV Tools"
-    ],
-    "IsHide": "False",
-    "IsTestingExclusive": true,
-    "DownloadCount": 0,
-    "LastUpdate": "1651577177",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/FullscreenToggle/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/FullscreenToggle/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/FullscreenToggle/latest.zip"
   },
   {
     "Author": "Chivalrik",

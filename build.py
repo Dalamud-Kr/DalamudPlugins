@@ -59,9 +59,12 @@ def main():
 
     for pluginName, plugin in lst_korea.items():
         if plugin_global := lst_global.get(pluginName):
-            for k, v in plugin_global.items():
-                if k not in plugin:
-                    plugin[k] = v
+            if v := plugin_global.get("RepoUrl"):
+                plugin["RepoUrl"] = v
+            if v := plugin_global.get("IconUrl"):
+                plugin["IconUrl"] = v
+            if v := plugin_global.get("CategoryTags"):
+                plugin["CategoryTags"] = v
 
         plugin["IsTestingExclusive"] = False
         plugin_json.append(plugin)
@@ -103,6 +106,7 @@ def main():
 
     for plugin in plugin_json:
         plugin["DownloadCount"] = 0
+        plugin["LastUpdate"] = 0
 
     with open(OUT_PLUGINMASTERS, "w", encoding="utf-8-sig") as fs:
         fs.truncate(0)

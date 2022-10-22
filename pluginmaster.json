@@ -283,6 +283,33 @@
     "LastUpdate": 0
   },
   {
+    "Author": "Styr1x",
+    "Name": "Browsingway",
+    "InternalName": "Browsingway",
+    "AssemblyVersion": "1.0.0.9",
+    "Description": "Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.\nUse the settings button below or the '/bw config' command to configure.\nBased on the BrowserHost plugin by ackwell.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Styr1x/Browsingway",
+    "Tags": [
+      "framework",
+      "browser",
+      "inlay",
+      "overlay",
+      "chromium",
+      "act"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Browser overlays rendered in-game.",
+    "Changelog": "Fix performance regression on certain system configurations (by karashiiro)",
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Browsingway/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Browsingway/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Browsingway/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 0
+  },
+  {
     "Author": "LeonBlade",
     "Name": "Burning Down the House",
     "InternalName": "BDTHPlugin",
@@ -641,35 +668,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/BigPlayerDebuffs/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/BigPlayerDebuffs/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/BigPlayerDebuffs/latest.zip"
-  },
-  {
-    "Author": "Styr1x",
-    "Name": "Browsingway",
-    "InternalName": "Browsingway",
-    "AssemblyVersion": "1.0.0.5",
-    "Description": "Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.\nUse the settings button below or the '/bw config' command to configure.\nBased on the BrowserHost plugin by ackwell.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Styr1x/Browsingway",
-    "Tags": [
-      "framework",
-      "browser",
-      "inlay",
-      "overlay",
-      "chromium",
-      "act"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "Browser overlays rendered in-game.",
-    "Changelog": "- Updated Chromium to 103.0.5060.66",
-    "IsHide": "False",
-    "TestingAssemblyVersion": "1.0.0.2",
-    "IsTestingExclusive": true,
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Browsingway/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Browsingway/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Browsingway/latest.zip"
   },
   {
     "Author": "ascclemens",

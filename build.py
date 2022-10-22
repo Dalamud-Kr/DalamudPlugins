@@ -1,6 +1,5 @@
 #!/bin/python3
 
-from genericpath import isdir
 import json
 import os
 import pathlib
@@ -53,12 +52,17 @@ def main():
 
     read_ignores()
     read_tested_plugins()
-    read_goatcorp()
     read_korea()
+    read_goatcorp()
 
     plugin_json: List[PluginInfo] = []
 
     for pluginName, plugin in lst_korea.items():
+        if plugin_global := lst_global.get(pluginName):
+            for k, v in plugin_global.items():
+                if k not in plugin:
+                    plugin[k] = v
+
         plugin["IsTestingExclusive"] = False
         plugin_json.append(plugin)
 
@@ -130,57 +134,62 @@ def read_korea():
         if not os.path.isdir(dir_path):
             continue
 
-        path_json = os.path.join(
+        json_path = os.path.join(
             dir_path, [x for x in os.listdir(dir_path) if x.endswith(".json")][0]
         )
 
-        jo: Dict[str, any]
-        with open(path_json, "r", encoding="utf-8-sig") as fs:
-            jo = {k: v for k, v in json.load(fs).items() if v is not None}
+        plugin: Dict[str, any]
+        with open(json_path, "r", encoding="utf-8-sig") as fs:
+            plugin = {k: v for k, v in json.load(fs).items() if v is not None}
 
-        jo["IsTestingExclusive"] = False
+        plugin["IsTestingExclusive"] = False
 
         zip_name = [x for x in os.listdir(dir_path) if x.endswith(".zip")][0]
         zip_url = f"{URL_PREFIX_PLUGINS}/{dir_name}/{zip_name}"
 
-        jo["DownloadLinkInstall"] = zip_url
-        jo["DownloadLinkTesting"] = zip_url
-        jo["DownloadLinkUpdate"] = zip_url
+        plugin["DownloadLinkInstall"] = zip_url
+        plugin["DownloadLinkTesting"] = zip_url
+        plugin["DownloadLinkUpdate"] = zip_url
 
-        k = jo["InternalName"] if "InternalName" in jo else jo["Name"]
-        lst_korea[k] = jo
+        k = plugin["InternalName"] if "InternalName" in plugin else plugin["Name"]
+        lst_korea[k] = plugin
 
         copytree(dir_path, os.path.join(OUT_PLUGINS, dir_name))
 
 
 def read_goatcorp():
-    ja: Dict[str, PluginInfo]
+    lst: Dict[str, PluginInfo]
     with open(
         os.path.join(GOATCORP_DIR, "pluginmaster.json"),
         "r",
         encoding="utf-8-sig",
     ) as fs:
-        ja = json.load(fs)
+        lst = json.load(fs)
 
-    for jo in ja:
-        if "DalamudApiLevel" in jo and jo["DalamudApiLevel"] != DALAMUD_API_LEVEL:
+    for plugin in lst:
+        if (
+            "DalamudApiLevel" not in plugin
+            or plugin["DalamudApiLevel"] != DALAMUD_API_LEVEL
+        ):
             continue
 
-        dir = "plugins" if jo["IsTestingExclusive"] == "False" else "testing"
-        zip_url = f"{URL_PREFIX_BASE}{dir}/{jo['InternalName']}/latest.zip"
+        dir = "plugins" if plugin["IsTestingExclusive"] == "False" else "testing"
+        zip_url = f"{URL_PREFIX_BASE}{dir}/{plugin['InternalName']}/latest.zip"
 
-        jo["DownloadLinkInstall"] = zip_url
-        jo["DownloadLinkTesting"] = zip_url
-        jo["DownloadLinkUpdate"] = zip_url
+        plugin["DownloadLinkInstall"] = zip_url
+        plugin["DownloadLinkTesting"] = zip_url
+        plugin["DownloadLinkUpdate"] = zip_url
 
-        k = jo["InternalName"] if "InternalName" in jo else jo["Name"]
+        k = plugin["InternalName"] if "InternalName" in plugin else plugin["Name"]
 
         # use testing version
         if (k in lst_global) and lst_global[k]["IsTestingExclusive"] == True:
-            print(f"Passed: {jo['InternalName']} (@{jo['Author']}) v{jo['Version']}")
+            print(
+                f"Passed: {plugin['InternalName']} (@{plugin['Author']}) v{plugin['Version']}"
+            )
             continue
 
-        lst_global[k] = jo
+        lst_global[k] = plugin
 
 
 def change_prefix(s: str, prefix_old_list: List[str], prefix_new: str) -> str:

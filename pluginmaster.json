@@ -141,6 +141,31 @@
     "LastUpdate": 0
   },
   {
+    "Author": "Jawslouis",
+    "Name": "MakePlace Plugin",
+    "InternalName": "MakePlacePlugin",
+    "AssemblyVersion": "2.18.0.0",
+    "Description": "Automatically save & load interior and exterior house layouts. Import/export layouts from the MakePlace program.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/jawslouis/MakePlacePlugin",
+    "Tags": [
+      "makeplace",
+      "housing",
+      "furniture",
+      "jawslouis"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png",
+    "Punchline": "Automatically save & load furniture layouts in your house.",
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//MakePlacePlugin/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//MakePlacePlugin/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//MakePlacePlugin/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 0
+  },
+  {
     "Author": "Kouzukii",
     "Name": "Death Recap",
     "InternalName": "DeathRecap",

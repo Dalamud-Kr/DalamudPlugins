@@ -258,6 +258,34 @@
     "LastUpdate": 0
   },
   {
+    "Author": "LeonBlade",
+    "Name": "Burning Down the House",
+    "InternalName": "BDTHPlugin",
+    "AssemblyVersion": "1.5.7.0",
+    "Description": "Move around housing items with coordinates and allows you to place anywhere.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
+    "Tags": [
+      "bdth",
+      "housing",
+      "float",
+      "place",
+      "glitch",
+      "furnishing",
+      "LeonBlade"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png",
+    "Punchline": "Move around housing items with coordinates and allows you to place anywhere.",
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//BDTHPlugin/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//BDTHPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//BDTHPlugin/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 0
+  },
+  {
     "Author": "Infi",
     "Name": "Death Roll Helper",
     "InternalName": "DeathRoll",

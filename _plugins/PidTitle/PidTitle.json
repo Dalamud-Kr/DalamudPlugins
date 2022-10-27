@@ -1,0 +1,11 @@
+{
+  "Author": "DalamudKr",
+  "Name": "PidTitle",
+  "InternalName": "PidTitle",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Change window title from 'FINAL FANTASY XIV' to '00000 : character name@server' automatically",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Change window title from 'FINAL FANTASY XIV' to '00000 : character name@server' automatically"
+}

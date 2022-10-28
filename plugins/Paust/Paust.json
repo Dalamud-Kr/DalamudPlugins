@@ -1,0 +1,11 @@
+{
+  "Author": "RyuaNerin",
+  "Name": "Paust",
+  "InternalName": "Paust",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "파티찾기 고급 필터링 및 표시 간략화 도움을 제공",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "파티찾기 고급 필터링 및 표시 간략화 도움을 제공"
+}

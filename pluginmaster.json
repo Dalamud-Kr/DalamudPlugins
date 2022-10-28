@@ -47,8 +47,13 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/images/image2.png",
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/images/image1.png",
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/images/image3.png"
+    ],
     "RepoUrl": "https://github.com/MgAl2O4/FFTriadBuddyDalamud",
-    "IconUrl": "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/icon.png",
     "CategoryTags": [
       "minigames"
     ],
@@ -62,7 +67,7 @@
     "AssemblyVersion": "1.2.4",
     "Description": "Automatically shows where treasure maps are located.\n\nIcon: Map by Adrien Coquet from the Noun Project",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://git.annaclemens.io/ascclemens/Globetrotter",
+    "RepoUrl": "https://git.sr.ht/~jkcclemens/Globetrotter",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Automatically shows where treasure maps are located.",
@@ -70,6 +75,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Globetrotter/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Globetrotter/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Globetrotter/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Globetrotter/images/icon.png",
     "CategoryTags": [
       "utility"
     ],
@@ -92,11 +98,11 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "ImageUrls": [
-      "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PlayerTrack/images/image1.png",
-      "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PlayerTrack/images/image2.png",
-      "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PlayerTrack/images/image3.png"
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PlayerTrack/images/image2.png",
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PlayerTrack/images/image1.png",
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PlayerTrack/images/image3.png"
     ],
-    "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api6/plugins/PlayerTrack/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PlayerTrack/images/icon.png",
     "Punchline": "Keep track of players you meet.",
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PlayerTrack/latest.zip",
@@ -180,6 +186,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//SimpleTweaksPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//SimpleTweaksPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//SimpleTweaksPlugin/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//SimpleTweaksPlugin/images/icon.png",
     "CategoryTags": [
       "UI",
       "other",
@@ -212,6 +219,10 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRecap/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRecap/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRecap/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRecap/images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRecap/images/image1.png"
+    ],
     "DownloadCount": 0,
     "LastUpdate": 0
   },
@@ -330,6 +341,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Browsingway/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Browsingway/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Browsingway/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Browsingway/images/icon.png",
     "DownloadCount": 0,
     "LastUpdate": 0
   },
@@ -386,6 +398,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRoll/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRoll/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRoll/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRoll/images/icon.png",
     "DownloadCount": 0,
     "LastUpdate": 0
   },
@@ -494,6 +507,23 @@
     "LastUpdate": 0
   },
   {
+    "Author": "RyuaNerin",
+    "Name": "Paust",
+    "InternalName": "Paust",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "\ud30c\ud2f0\ucc3e\uae30 \uace0\uae09 \ud544\ud130\ub9c1 \ubc0f \ud45c\uc2dc \uac04\ub7b5\ud654 \ub3c4\uc6c0\uc744 \uc81c\uacf5",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "\ud30c\ud2f0\ucc3e\uae30 \uace0\uae09 \ud544\ud130\ub9c1 \ubc0f \ud45c\uc2dc \uac04\ub7b5\ud654 \ub3c4\uc6c0\uc744 \uc81c\uacf5",
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Paust/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Paust/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Paust/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 0
+  },
+  {
     "Author": "UnknownX",
     "Name": "Cammy",
     "Punchline": "A simple editor for the game's camera settings",
@@ -590,6 +620,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//ChillFrames/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//ChillFrames/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//ChillFrames/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//ChillFrames/images/icon.png",
     "DownloadCount": 0,
     "LastUpdate": 0
   },

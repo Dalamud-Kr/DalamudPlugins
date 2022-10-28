@@ -166,6 +166,30 @@
     "LastUpdate": 0
   },
   {
+    "Author": "Caraxi",
+    "Name": "Simple Tweaks Plugin",
+    "InternalName": "SimpleTweaksPlugin",
+    "AssemblyVersion": "1.7.4.1",
+    "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "This was supposed to be simple...",
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//SimpleTweaksPlugin/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//SimpleTweaksPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//SimpleTweaksPlugin/latest.zip",
+    "CategoryTags": [
+      "UI",
+      "other",
+      "utility",
+      "social"
+    ],
+    "DownloadCount": 0,
+    "LastUpdate": 0
+  },
+  {
     "Author": "Kouzukii",
     "Name": "Death Recap",
     "InternalName": "DeathRecap",
@@ -2680,32 +2704,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SillyChat/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SillyChat/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SillyChat/latest.zip"
-  },
-  {
-    "Author": "Caraxi",
-    "Name": "Simple Tweaks Plugin",
-    "InternalName": "SimpleTweaksPlugin",
-    "AssemblyVersion": "1.7.4.0",
-    "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "This was supposed to be simple...",
-    "IsHide": "False",
-    "TestingAssemblyVersion": "0.1.4.0",
-    "IsTestingExclusive": false,
-    "DownloadCount": 0,
-    "CategoryTags": [
-      "UI",
-      "other",
-      "utility",
-      "social"
-    ],
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/SimpleTweaksPlugin/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/SimpleTweaksPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/SimpleTweaksPlugin/latest.zip"
   },
   {
     "Author": "ocealot",

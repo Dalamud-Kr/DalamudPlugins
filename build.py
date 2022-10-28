@@ -59,11 +59,15 @@ def main():
 
     for pluginName, plugin in lst_korea.items():
         if plugin_global := lst_global.get(pluginName):
-            if v := plugin_global.get("RepoUrl"):
+            if "RepoUrl" not in plugin and (v := plugin_global.get("RepoUrl")):
                 plugin["RepoUrl"] = v
-            if v := plugin_global.get("IconUrl"):
+            if "IconUrl" not in plugin and (v := plugin_global.get("IconUrl")):
                 plugin["IconUrl"] = v
-            if v := plugin_global.get("CategoryTags"):
+            if "ImageUrls" not in plugin and (v := plugin_global.get("ImageUrls")):
+                plugin["ImageUrls"] = v
+            if "CategoryTags" not in plugin and (
+                v := plugin_global.get("CategoryTags")
+            ):
                 plugin["CategoryTags"] = v
 
         plugin["IsTestingExclusive"] = False
@@ -154,6 +158,20 @@ def read_korea():
         plugin["DownloadLinkInstall"] = zip_url
         plugin["DownloadLinkTesting"] = zip_url
         plugin["DownloadLinkUpdate"] = zip_url
+
+        images_path = os.path.join(dir_path, "images")
+        if os.path.exists(images_path) and os.path.isdir(images_path):
+            images = os.listdir(images_path)
+            images_not_icon = [x for x in images if x != "icon.png"]
+
+            if "icon.png" in images:
+                plugin["IconUrl"] = f"{URL_PREFIX_PLUGINS}/{dir_name}/images/icon.png"
+
+            if len(images_not_icon):
+                plugin["ImageUrls"] = [
+                    f"{URL_PREFIX_PLUGINS}/{dir_name}/images/{x}"
+                    for x in images_not_icon
+                ]
 
         k = plugin["InternalName"] if "InternalName" in plugin else plugin["Name"]
         lst_korea[k] = plugin

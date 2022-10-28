@@ -2758,49 +2758,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Snooper/latest.zip"
   },
   {
-    "Author": "Sonar Team",
-    "Name": "Sonar",
-    "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.4.8.0",
-    "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://discord.gg/K7y24Rr",
-    "Tags": [
-      "Sonar",
-      "Hunt",
-      "Hunts",
-      "Fate",
-      "Fates",
-      "Relay",
-      "Relays",
-      "Automated",
-      "Automatic"
-    ],
-    "CategoryTags": [
-      "utility"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "ImageUrls": [
-      "https://assets.ffxivsonar.com/dalamud/image1.png",
-      "https://assets.ffxivsonar.com/dalamud/image2.png",
-      "https://assets.ffxivsonar.com/dalamud/image3.png",
-      "https://assets.ffxivsonar.com/dalamud/image4.png",
-      "https://assets.ffxivsonar.com/dalamud/image5.png"
-    ],
-    "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
-    "Punchline": "Automatically send and receive hunt and fate relays.",
-    "Changelog": "See the Sonar Support discord #announcements channel for more information",
-    "IsHide": "False",
-    "TestingAssemblyVersion": "0.1.0.11",
-    "IsTestingExclusive": true,
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SonarPlugin/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SonarPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/SonarPlugin/latest.zip"
-  },
-  {
     "Author": "ascclemens",
     "Name": "Sound Filter",
     "InternalName": "SoundFilter",
@@ -3340,52 +3297,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/WondrousTailsSolver/latest.zip"
   },
   {
-    "Author": "Lady Defile",
-    "Name": "Wordsmith",
-    "InternalName": "Wordsmith",
-    "AssemblyVersion": "1.4.2",
-    "Description": "Wordsmith is a text editor with roleplayers in mind. It automatically breaks your text up for easy copy/paste, has advanced features, spellcheck, and even a thesaurus.",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "roleplay",
-      "thesaurus",
-      "notepad",
-      "notes"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "A roleplay thesaurus and scratch pad.",
-    "IsHide": "False",
-    "TestingAssemblyVersion": "1.3.5",
-    "IsTestingExclusive": true,
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Wordsmith/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Wordsmith/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Wordsmith/latest.zip"
-  },
-  {
-    "Author": "ascclemens",
-    "Name": "XIVChat Server",
-    "InternalName": "XIVChat",
-    "AssemblyVersion": "1.7.2",
-    "Description": "XIVChat is a suite of software allowing you to use FFXIV's chat from\ndifferent devices. This is the server component required to do so.\n\nFor information about clients to use with this server, see the website.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://xiv.chat/",
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "IsTestingExclusive": true,
-    "DownloadCount": 0,
-    "CategoryTags": [
-      "social"
-    ],
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVChat/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVChat/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVChat/latest.zip"
-  },
-  {
     "Author": "attick",
     "Name": "XIV Combo",
     "Punchline": "PvP, but in PvE.",
@@ -3409,35 +3320,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVCombo/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVCombo/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVCombo/latest.zip"
-  },
-  {
-    "Author": "Kaz Wolfe",
-    "Name": "XIVDeck Game Plugin",
-    "InternalName": "XIVDeck.FFXIVPlugin",
-    "AssemblyVersion": "0.2.7",
-    "Description": "This plugin allows players to place virtually any hotbar-able action onto a Stream Deck, including hotbar slots themselves. Actions are called directly, meaning no keybinds or awkward settings are necessary.\n\nNote that the XIVDeck Stream Deck plugin must also be installed for this plugin to be useful. You can download the Stream Deck plugin from the linked GitHub repository, under the \"Releases\" section.\n\nPlease report all problems to KazWolfe#2896 in the Dalamud Support server or by opening an Issue on GitHub.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/KazWolfe/XIVDeck/",
-    "Tags": [
-      "stream deck",
-      "ui",
-      "integrations",
-      "api"
-    ],
-    "CategoryTags": [
-      "UI"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "Integrate your Stream Deck with Final Fantasy XIV!",
-    "IsHide": "False",
-    "TestingAssemblyVersion": "0.2.9",
-    "IsTestingExclusive": true,
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVDeck.FFXIVPlugin/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVDeck.FFXIVPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/XIVDeck.FFXIVPlugin/latest.zip"
   },
   {
     "Author": "Cadaeix",
@@ -3690,54 +3572,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DomanMahjongStatus/latest.zip"
   },
   {
-    "Author": "Roselyn",
-    "Name": "Elden Ring April Fools",
-    "InternalName": "EldenRing",
-    "AssemblyVersion": "0.0.0.4",
-    "Description": "Currently under development with extra features, should currently function as the April Fools joke did.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Roselyyn/EldenRingDalamud",
-    "Tags": [
-      "Elden Ring",
-      "plugin",
-      "Death",
-      "Craft"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "Recreation of the Elden Ring April Fools joke.",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.0.4",
-    "IsTestingExclusive": true,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/EldenRing/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/EldenRing/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/EldenRing/latest.zip"
-  },
-  {
-    "Author": "BiscuitUmU, Kazumi",
-    "Name": "Fantasy Player",
-    "InternalName": "FantasyPlayer.Dalamud",
-    "AssemblyVersion": "2.9.6.2",
-    "Description": "Control Spotify playback from within FFX|V\nUse the button below to open settings or use the '/pfp settings' command.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Dormanil/FantasyPlayer",
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "2.9.6.2",
-    "IsTestingExclusive": true,
-    "CategoryTags": [
-      "UI"
-    ],
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/FantasyPlayer.Dalamud/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/FantasyPlayer.Dalamud/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/FantasyPlayer.Dalamud/latest.zip"
-  },
-  {
     "Author": "Khloe Leclair",
     "Name": "Gearset Helper Plugin",
     "InternalName": "GearsetHelperPlugin",
@@ -3913,54 +3747,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/KikoGuide/latest.zip"
   },
   {
-    "Author": "Infi",
-    "Name": "Easy MBHistory",
-    "InternalName": "MBHistory",
-    "AssemblyVersion": "0.0.3.1",
-    "Description": "Copies the marketboard transaction history into your clipboard with configurable options.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Infiziert90/MBHistory",
-    "Tags": [
-      "MarketBoard",
-      "plugin",
-      "clipboard",
-      "History"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "IconUrl": "https://github.com/Infiziert90/MBHistory/raw/master/MBHistory/images/icon.png",
-    "Punchline": "Useful for when you want to quickly export marketboard transaction history.",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.3.1",
-    "IsTestingExclusive": true,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/MBHistory/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/MBHistory/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/MBHistory/latest.zip"
-  },
-  {
-    "Author": "Eternita",
-    "Name": "XIV Instant Messenger",
-    "InternalName": "Messenger",
-    "AssemblyVersion": "1.2.0.1",
-    "Description": "Features:\n- Opes a direct message window when you message someone or they message you\n- Each window contains your DM chat with certain person\n- Open and cycle through recent chats with a hotkey\n- Execute emote commands on a player from their DM window without needing to manually target them\n- Automatically record your chat log in an easy to read text file\n- Fully customizable styles",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "ImageUrls": [],
-    "Punchline": "A direct message manager made in fashion of WoW Instant Messenger.",
-    "RepoUrl": "https://github.com/Eternita-S/XIVInstantMessenger",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.2.0.1",
-    "IsTestingExclusive": true,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Messenger/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Messenger/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Messenger/latest.zip"
-  },
-  {
     "Author": "Meisterlala",
     "Name": "Neko Fans",
     "InternalName": "Neko",
@@ -4035,30 +3821,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NoKillPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NoKillPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NoKillPlugin/latest.zip"
-  },
-  {
-    "Author": "Bluefissure",
-    "Name": "OBSPlugin",
-    "InternalName": "OBSPlugin",
-    "AssemblyVersion": "1.0.1.2",
-    "Description": "A plugin to control OBS by websocket.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Bluefissure/Dalamud-OBS",
-    "Tags": [
-      "OBS",
-      "UI",
-      "Util"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.1.2",
-    "IsTestingExclusive": true,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/OBSPlugin/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/OBSPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/OBSPlugin/latest.zip"
   },
   {
     "Author": "darkarchon",

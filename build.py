@@ -165,11 +165,11 @@ def read_korea():
             images_not_icon = [x for x in images if x != "icon.png"]
 
             if "icon.png" in images:
-                plugin["IconUrl"] = f"{URL_PREFIX_PLUGINS}/{dir_name}/images/icon.png"
+                plugin["IconUrl"] = f"{URL_PREFIX_PLUGINS}{dir_name}/images/icon.png"
 
             if len(images_not_icon):
                 plugin["ImageUrls"] = [
-                    f"{URL_PREFIX_PLUGINS}/{dir_name}/images/{x}"
+                    f"{URL_PREFIX_PLUGINS}{dir_name}/images/{x}"
                     for x in images_not_icon
                 ]
 

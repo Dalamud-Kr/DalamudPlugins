@@ -1,0 +1,15 @@
+{
+  "Author": "DalamudKr",
+  "Name": "Chat Redirect",
+  "InternalName": "ChatRedirect",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Send chat to other client",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/DalamudKr/chatRedirect",
+  "Tags": [
+    "Utility"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Send chat to other client"
+}

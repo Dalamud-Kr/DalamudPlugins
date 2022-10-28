@@ -16,12 +16,12 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "ImageUrls": [
-      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//FFLogsViewer/images/ui.png",
-      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//FFLogsViewer/images/contextMenu1.png",
-      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//FFLogsViewer/images/banner.png",
-      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//FFLogsViewer/images/contextMenu2.png"
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FFLogsViewer/images/ui.png",
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FFLogsViewer/images/contextMenu1.png",
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FFLogsViewer/images/banner.png",
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FFLogsViewer/images/contextMenu2.png"
     ],
-    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//FFLogsViewer/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FFLogsViewer/images/icon.png",
     "Punchline": "View FF Logs ranking percentiles in-game.",
     "Changelog": "- 2.0.4.5: Penumbra API update + library change for context menu button.",
     "IsTestingExclusive": false,
@@ -50,11 +50,11 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/TriadBuddy/images/icon.png",
     "ImageUrls": [
-      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/images/image2.png",
-      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/images/image1.png",
-      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//TriadBuddy/images/image3.png"
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/TriadBuddy/images/image2.png",
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/TriadBuddy/images/image1.png",
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/TriadBuddy/images/image3.png"
     ],
     "RepoUrl": "https://github.com/MgAl2O4/FFTriadBuddyDalamud",
     "CategoryTags": [
@@ -78,7 +78,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Globetrotter/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Globetrotter/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Globetrotter/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Globetrotter/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/Globetrotter/images/icon.png",
     "CategoryTags": [
       "utility"
     ],
@@ -101,11 +101,11 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "ImageUrls": [
-      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PlayerTrack/images/image2.png",
-      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PlayerTrack/images/image1.png",
-      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PlayerTrack/images/image3.png"
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/PlayerTrack/images/image2.png",
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/PlayerTrack/images/image1.png",
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/PlayerTrack/images/image3.png"
     ],
-    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PlayerTrack/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/PlayerTrack/images/icon.png",
     "Punchline": "Keep track of players you meet.",
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PlayerTrack/latest.zip",
@@ -165,7 +165,7 @@
     ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//MakePlacePlugin/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/MakePlacePlugin/images/icon.png",
     "Punchline": "Automatically save & load furniture layouts in your house.",
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//MakePlacePlugin/latest.zip",
@@ -189,7 +189,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//SimpleTweaksPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//SimpleTweaksPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//SimpleTweaksPlugin/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//SimpleTweaksPlugin/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/SimpleTweaksPlugin/images/icon.png",
     "CategoryTags": [
       "UI",
       "other",
@@ -222,9 +222,9 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRecap/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRecap/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRecap/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRecap/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/DeathRecap/images/icon.png",
     "ImageUrls": [
-      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRecap/images/image1.png"
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/DeathRecap/images/image1.png"
     ],
     "DownloadCount": 0,
     "LastUpdate": 0
@@ -242,7 +242,7 @@
     "ImageUrls": [
       "https://i.imgur.com/UeRukF8.png"
     ],
-    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//XIVSlothCombo/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/XIVSlothCombo/images/icon.png",
     "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
     "Changelog": "Features, Fixes & Enhancements for Framework, AST, PLD, SCH, SGE and SMN. Please check the project's GitHub or Discord for a full changelog.",
     "IsTestingExclusive": false,
@@ -344,7 +344,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Browsingway/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Browsingway/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Browsingway/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Browsingway/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/Browsingway/images/icon.png",
     "DownloadCount": 0,
     "LastUpdate": 0
   },
@@ -367,7 +367,7 @@
     ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//BDTHPlugin/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/BDTHPlugin/images/icon.png",
     "Punchline": "Move around housing items with coordinates and allows you to place anywhere.",
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//BDTHPlugin/latest.zip",
@@ -401,7 +401,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRoll/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRoll/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRoll/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeathRoll/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/DeathRoll/images/icon.png",
     "DownloadCount": 0,
     "LastUpdate": 0
   },
@@ -416,11 +416,11 @@
     "DalamudApiLevel": 7,
     "LoadPriority": 0,
     "ImageUrls": [
-      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//BossMod/images/image2.png",
-      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//BossMod/images/image1.png",
-      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//BossMod/images/image3.png"
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/BossMod/images/image2.png",
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/BossMod/images/image1.png",
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/BossMod/images/image3.png"
     ],
-    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//BossMod/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/BossMod/images/icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//BossMod/latest.zip",
@@ -623,7 +623,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//ChillFrames/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//ChillFrames/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//ChillFrames/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//ChillFrames/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/ChillFrames/images/icon.png",
     "DownloadCount": 0,
     "LastUpdate": 0
   },
@@ -642,7 +642,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Splatoon/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Splatoon/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Splatoon/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Splatoon/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/Splatoon/images/icon.png",
     "DownloadCount": 0,
     "LastUpdate": 0
   },

@@ -2332,38 +2332,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PennyPincher/latest.zip"
   },
   {
-    "Author": "karashiiro",
-    "Name": "PingPlugin",
-    "InternalName": "PingPlugin",
-    "AssemblyVersion": "2.4.1.0",
-    "Description": "A ping display plugin for Dalamud.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/karashiiro/PingPlugin",
-    "Tags": [
-      "ping",
-      "monitor",
-      "utility",
-      "tool"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/image1.png"
-    ],
-    "IconUrl": "https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/icon.png",
-    "IsHide": "False",
-    "TestingAssemblyVersion": "2.4.0.0",
-    "IsTestingExclusive": true,
-    "DownloadCount": 0,
-    "CategoryTags": [
-      "UI"
-    ],
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PingPlugin/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PingPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/PingPlugin/latest.zip"
-  },
-  {
     "Author": "Haplo064",
     "Name": "Pixel Perfect",
     "Punchline": "Reveals your hitbox, and an optional ring.",

@@ -3,8 +3,8 @@
     "Author": "Aireil",
     "Name": "FF Logs Viewer",
     "InternalName": "FFLogsViewer",
-    "AssemblyVersion": "2.0.4.5",
-    "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs.",
+    "AssemblyVersion": "2.0.7.1",
+    "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
     "Tags": [
@@ -23,7 +23,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/FFLogsViewer/images/icon.png",
     "Punchline": "View FF Logs ranking percentiles in-game.",
-    "Changelog": "- 2.0.4.5: Penumbra API update + library change for context menu button.",
+    "Changelog": "- 2.0.7.1:\n   Fix some issues with open with + add a close setting.\n- 2.0.7.0:\n   Add open with setting, allowing you to fetch a character when opening different windows.",
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//FFLogsViewer/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//FFLogsViewer/latest.zip",
@@ -113,6 +113,31 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//PlayerTrack/latest.zip",
     "CategoryTags": [
       "social",
+      "utility"
+    ],
+    "DownloadCount": 0,
+    "LastUpdate": 0
+  },
+  {
+    "Author": "goat",
+    "Name": "Discord Rich Presence",
+    "InternalName": "Dalamud.RichPresence",
+    "AssemblyVersion": "2.0.1.0",
+    "Description": "This plugin allows you to show your zone, job, level, name, and world in your Discord status.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/goaaats/Dalamud.RichPresence",
+    "Tags": [
+      "Discord"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Show your zone, job, level, name, and world in your Discord status",
+    "Changelog": "API 7 compatibility",
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Dalamud.RichPresence/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Dalamud.RichPresence/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Dalamud.RichPresence/latest.zip",
+    "CategoryTags": [
       "utility"
     ],
     "DownloadCount": 0,
@@ -1176,31 +1201,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.LoadingImage/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.LoadingImage/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.LoadingImage/latest.zip"
-  },
-  {
-    "Author": "goat",
-    "Name": "Discord Rich Presence",
-    "InternalName": "Dalamud.RichPresence",
-    "AssemblyVersion": "2.0.0.5",
-    "Description": "This plugin allows you to show your zone, job, level, name, and world in your Discord status.",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "Discord"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "Show your zone, job, level, name, and world in your Discord status",
-    "Changelog": "* Added party grouping support, will show people you group with on Discord if they also use the plugin\n* Now shows AFK status by default, can be disabled\n* Now shows queue position if Waitingway is installed",
-    "IsHide": "False",
-    "IsTestingExclusive": true,
-    "DownloadCount": 0,
-    "CategoryTags": [
-      "utility"
-    ],
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.RichPresence/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.RichPresence/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/Dalamud.RichPresence/latest.zip"
   },
   {
     "Author": "perchbird",

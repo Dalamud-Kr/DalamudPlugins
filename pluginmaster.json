@@ -32,6 +32,29 @@
     "LastUpdate": 0
   },
   {
+    "Author": "Tischel",
+    "Name": "ActionTimeline",
+    "InternalName": "ActionTimeline",
+    "AssemblyVersion": "0.2.0.0",
+    "Description": "Configurable timeline display of all the actions you use.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Tischel/ActionTimeline",
+    "Tags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Show your actions in real-time.",
+    "Changelog": "0.2.0.0\n- Fixed windows not being click-through when locked.\n- Fixed Monk's Anatman showing as an oGCD and not triggering the GCD in the timeline.\n- Fixed Ninja's Mudras and Ninjutsus showing as an oGCD and not triggering the GCD in the timeline.",
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//ActionTimeline/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//ActionTimeline/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//ActionTimeline/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/ActionTimeline/images/icon.png",
+    "DownloadCount": 0,
+    "LastUpdate": 0
+  },
+  {
     "Author": "MgAl2O4",
     "Name": "TriadBuddy",
     "InternalName": "TriadBuddy",
@@ -82,6 +105,28 @@
     "CategoryTags": [
       "utility"
     ],
+    "DownloadCount": 0,
+    "LastUpdate": 0
+  },
+  {
+    "Author": "Jessidhia",
+    "Name": "DeviceChangeFix",
+    "InternalName": "DeviceChangeFix",
+    "AssemblyVersion": "2.0.1.0",
+    "Description": "\uac04\ud639 \ud30c\uc774\ub110 \ud310\ud0c0\uc9c0\uc5d0\uc11c \uc7a5\uce58\ub97c \uc778\uc2dd\ud560 \ub54c \uac11\uc790\uae30 \ud654\uba74\uc774 \uba48\ucd94\ub294 \ud604\uc0c1\uc744 \uc644\ud654\ud574 \uc90d\ub2c8\ub2e4.\nOriginal plugin by PGGB, icon from Mutant Standard.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Jessidhia/DeviceChangeFix",
+    "Tags": [
+      "fix",
+      "gamepad"
+    ],
+    "DalamudApiLevel": 7,
+    "LoadPriority": 0,
+    "Punchline": "Stops controller input from freezing randomly.",
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeviceChangeFix/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeviceChangeFix/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//DeviceChangeFix/latest.zip",
     "DownloadCount": 0,
     "LastUpdate": 0
   },
@@ -320,6 +365,32 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Dalamud.Fotice/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Dalamud.Fotice/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//Dalamud.Fotice/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 0
+  },
+  {
+    "Author": "LeonBlade",
+    "Name": "Heels Plugin",
+    "InternalName": "HeelsPlugin",
+    "AssemblyVersion": "1.2.4.0",
+    "Description": "Offsets your character off the ground for when wearing heels.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
+    "Tags": [
+      "heels",
+      "high heels",
+      "height",
+      "offset",
+      "leonblade"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IconUrl": "https://github.com/LeonBlade/HeelsPlugin/raw/main/icon.png",
+    "Punchline": "Offsets your character off the ground for when wearing heels.",
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//HeelsPlugin/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//HeelsPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//HeelsPlugin/latest.zip",
     "DownloadCount": 0,
     "LastUpdate": 0
   },
@@ -1302,29 +1373,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DelvUI/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DelvUI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DelvUI/latest.zip"
-  },
-  {
-    "Author": "PGGB",
-    "Name": "DeviceChangeFix",
-    "InternalName": "DeviceChangeFix",
-    "AssemblyVersion": "1.0.1.0",
-    "Description": "Stops controller input from freezing randomly.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/PGGB/DeviceChangeFix",
-    "Tags": [
-      "fix",
-      "gamepad"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "Stops controller input from freezing randomly.",
-    "IsHide": "False",
-    "IsTestingExclusive": true,
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DeviceChangeFix/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DeviceChangeFix/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/DeviceChangeFix/latest.zip"
   },
   {
     "Author": "ocealot",

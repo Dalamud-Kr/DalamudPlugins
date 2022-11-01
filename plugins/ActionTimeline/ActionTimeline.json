@@ -1,0 +1,16 @@
+{
+  "Author": "Tischel",
+  "Name": "ActionTimeline",
+  "InternalName": "ActionTimeline",
+  "AssemblyVersion": "0.2.0.0",
+  "Description": "Configurable timeline display of all the actions you use.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Tischel/ActionTimeline",
+  "Tags": [
+    "UI"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Show your actions in real-time.",
+  "Changelog": "0.2.0.0\n- Fixed windows not being click-through when locked.\n- Fixed Monk's Anatman showing as an oGCD and not triggering the GCD in the timeline.\n- Fixed Ninja's Mudras and Ninjutsus showing as an oGCD and not triggering the GCD in the timeline."
+}

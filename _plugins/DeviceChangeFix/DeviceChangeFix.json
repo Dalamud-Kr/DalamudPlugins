@@ -1,0 +1,16 @@
+{
+  "Author": "Jessidhia",
+  "Name": "DeviceChangeFix",
+  "InternalName": "DeviceChangeFix",
+  "AssemblyVersion": "2.0.1.0",
+  "Description": "간혹 파이널 판타지에서 장치를 인식할 때 갑자기 화면이 멈추는 현상을 완화해 줍니다.\nOriginal plugin by PGGB, icon from Mutant Standard.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Jessidhia/DeviceChangeFix",
+  "Tags": [
+    "fix",
+    "gamepad"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "Punchline": "Stops controller input from freezing randomly."
+}

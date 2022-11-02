@@ -725,6 +725,35 @@
   },
   {
     "Author": "MidoriKami",
+    "Name": "No Tank You",
+    "InternalName": "NoTankYou",
+    "AssemblyVersion": "5.0.3.2",
+    "Description": "Displays warnings when you or any party members are missing role specific actions such as partner buffs, pets, and tank stances.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/MidoriKami/NoTankYou",
+    "Tags": [
+      "utility"
+    ],
+    "CategoryTags": [
+      "utility",
+      "ui"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Warns you when yourself or others are missing role-specific actions",
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//NoTankYou/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//NoTankYou/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins//NoTankYou/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/NoTankYou/images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/plugins/NoTankYou/images/image1.png"
+    ],
+    "DownloadCount": 0,
+    "LastUpdate": 0
+  },
+  {
+    "Author": "MidoriKami",
     "Name": "Chill Frames",
     "InternalName": "ChillFrames",
     "AssemblyVersion": "1.5.1.0",
@@ -2217,32 +2246,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NoSoliciting/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NoSoliciting/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NoSoliciting/latest.zip"
-  },
-  {
-    "Author": "MidoriKami",
-    "Name": "No Tank You",
-    "InternalName": "NoTankYou",
-    "AssemblyVersion": "4.0.5.2",
-    "Description": "Displays warnings when you or any party members are missing role specific actions such as partner buffs, pets, and tank stances.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/MidoriKami/NoTankYou",
-    "Tags": [
-      "utility"
-    ],
-    "CategoryTags": [
-      "utility",
-      "ui"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "Warns you when yourself or others are missing role-specific actions",
-    "IsHide": "False",
-    "IsTestingExclusive": true,
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NoTankYou/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NoTankYou/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/DalamudPlugins/api6/testing/NoTankYou/latest.zip"
   },
   {
     "Author": "Eternita",
